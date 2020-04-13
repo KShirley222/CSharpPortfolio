@@ -1,0 +1,14 @@
+C:\Users\Kyle Shirley\Desktop\codingDojo\ASP\Portfolio\bin\Debug\netcoreapp2.2\Portfolio.deps.json
+C:\Users\Kyle Shirley\Desktop\codingDojo\ASP\Portfolio\bin\Debug\netcoreapp2.2\Portfolio.runtimeconfig.json
+C:\Users\Kyle Shirley\Desktop\codingDojo\ASP\Portfolio\bin\Debug\netcoreapp2.2\Portfolio.runtimeconfig.dev.json
+C:\Users\Kyle Shirley\Desktop\codingDojo\ASP\Portfolio\bin\Debug\netcoreapp2.2\Portfolio.dll
+C:\Users\Kyle Shirley\Desktop\codingDojo\ASP\Portfolio\bin\Debug\netcoreapp2.2\Portfolio.pdb
+C:\Users\Kyle Shirley\Desktop\codingDojo\ASP\Portfolio\obj\Debug\netcoreapp2.2\Portfolio.csprojAssemblyReference.cache
+C:\Users\Kyle Shirley\Desktop\codingDojo\ASP\Portfolio\obj\Debug\netcoreapp2.2\Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\Kyle Shirley\Desktop\codingDojo\ASP\Portfolio\obj\Debug\netcoreapp2.2\Portfolio.RazorAssemblyInfo.cache
+C:\Users\Kyle Shirley\Desktop\codingDojo\ASP\Portfolio\obj\Debug\netcoreapp2.2\Portfolio.RazorAssemblyInfo.cs
+C:\Users\Kyle Shirley\Desktop\codingDojo\ASP\Portfolio\obj\Debug\netcoreapp2.2\Portfolio.AssemblyInfoInputs.cache
+C:\Users\Kyle Shirley\Desktop\codingDojo\ASP\Portfolio\obj\Debug\netcoreapp2.2\Portfolio.AssemblyInfo.cs
+C:\Users\Kyle Shirley\Desktop\codingDojo\ASP\Portfolio\obj\Debug\netcoreapp2.2\Portfolio.RazorTargetAssemblyInfo.cache
+C:\Users\Kyle Shirley\Desktop\codingDojo\ASP\Portfolio\obj\Debug\netcoreapp2.2\Portfolio.dll
+C:\Users\Kyle Shirley\Desktop\codingDojo\ASP\Portfolio\obj\Debug\netcoreapp2.2\Portfolio.pdb
