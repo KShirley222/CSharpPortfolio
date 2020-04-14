@@ -1,26 +1,29 @@
 using Microsoft.AspNetCore.Mvc;
+using System;
+using Microsoft.AspNetCore.Http;
 
 namespace Portfolio.Controllers
 {
-    public class HomeController
+    public class HomeController : Controller
     {
-        [HttpGet("")]
+        [HttpGet]
+        [Route("")]
 
-        public string Index()
+        public ViewResult Home()
         {
-            return "Hello, Welcome to my portfolio.";
+            return View();
         }
 
         [HttpGet("projects")]
-        public string Projects()
+        public ViewResult Projects()
         {
-            return " This is my portfolio";
+            return View();
         }
 
         [HttpGet("contact")]
-        public string Contact()
+        public ViewResult Contact()
         {
-            return "This is my contact information";
+            return View();
         }
     }
 }
